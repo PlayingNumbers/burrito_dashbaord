@@ -1,6 +1,6 @@
 # burrito_dashboard
 
-Follow along with my analysis here: 
+Follow along with my analysis here: https://youtu.be/ammCGdzSoag
 
 In this video I walk you through how I learn a new tool and build a dashboard using atoti. 
 
